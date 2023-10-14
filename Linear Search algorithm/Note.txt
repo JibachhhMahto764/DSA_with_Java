@@ -1,0 +1,27 @@
+What is Searching?
+=> It's technique that helps us search a data element out at the given string or array.
+
+linear search:
+
+arr[18,24,9,14,77,50] unsorted array
+ size=6
+
+Q. Find Whether 14 exits in array or not?
+ arr[3]=14
+
+
+At the best time complexity Is = 0(1)// constant 
+At the Worst case = 0(N)
+            where N is size of array
+
+target = 18 answer => only 1 comparison make in Best case 
+ it the best case size is not matter
+
+Worst => you don't find the target item.
+iterate go through every item and then in the end it says i did not find it.
+
+
+if size of array = 100 => 100<comparison
+  if array = N => N<comparison 
+         0(N) => Worst case 
+
