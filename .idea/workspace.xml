@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09d3444-dfc7-42fe-9027-dc1f168cadc2" name="Changes" comment=" java linked list code.">
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+    <list default="true" id="f09d3444-dfc7-42fe-9027-dc1f168cadc2" name="Changes" comment="java mutubility">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutipleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passinginfunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +31,15 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/mutipleArray.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sLmqFrePl4YNBbbA8D2ylGgvJX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,10 +50,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Linkedlist"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.mutipleArray">
     <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="linkedlist" />
@@ -53,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mutipleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mutipleArray" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mutipleArray" />
         <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
@@ -68,10 +85,20 @@
       <option name="presentableId" value="Default" />
       <updated>1738243422919</updated>
     </task>
+    <task id="LOCAL-00001" summary=" java linked list code.">
+      <option name="closed" value="true" />
+      <created>1738257100681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738257100681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" java linked list code." />
-    <option name="LAST_COMMIT_MESSAGE" value=" java linked list code." />
+    <MESSAGE value="java mutubility" />
+    <option name="LAST_COMMIT_MESSAGE" value="java mutubility" />
   </component>
 </project>
