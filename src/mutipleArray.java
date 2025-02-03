@@ -37,7 +37,7 @@ public class mutipleArray {
             System.out.println(Arrays.toString(arr[row]));
         }
         for (int row = 0; row < arr.length; row++) {
-            System.out.println(Arrays.toString(arr[row])1);
+            System.out.println(Arrays.toString(arr[row]));
         }
     }
 

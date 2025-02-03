@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09d3444-dfc7-42fe-9027-dc1f168cadc2" name="Changes" comment="java mutubility">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutipleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/passinginfunction.java" afterDir="false" />
+    <list default="true" id="f09d3444-dfc7-42fe-9027-dc1f168cadc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayslistExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColNoFixsize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mutipleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mutipleArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Linkedlist"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Linkedlist&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bina Computer Jnk/IdeaProjects/linkedlist&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.mutipleArray">
+}</component>
+  <component name="RunManager" selected="Application.Input">
     <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="linkedlist" />
@@ -93,12 +94,32 @@
       <option name="project" value="LOCAL" />
       <updated>1738257100681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2D Array code">
+      <option name="closed" value="true" />
+      <created>1738430788360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738430788360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" java linked list code." />
     <MESSAGE value="java mutubility" />
-    <option name="LAST_COMMIT_MESSAGE" value="java mutubility" />
+    <MESSAGE value="2D Array code" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D Array code" />
   </component>
 </project>
